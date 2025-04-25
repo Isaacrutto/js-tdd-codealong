@@ -495,4 +495,4 @@ what type of test to write as you're building new features for your application.
 
 ## Resources
 
-- [Jest](https://jestjs.io/)
+- [Jest](https://jestjs.io/) .
